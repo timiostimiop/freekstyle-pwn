@@ -205,7 +205,5 @@ And you'll land right on this sweet little check
 ![l4d](https://bilderupload.org/image/acb513501-l4d2.png)
 
 
-Latest dll files right from the p2c itself at https://github.com/UltraV0d/fnn
-
 
 
